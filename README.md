@@ -1,2 +1,4 @@
-# Ja.oldinov
-Frontend developer
+# AppliedIntellectualSystems
+
+MachineLearning
+
